@@ -1,6 +1,6 @@
 # Retirement Calculator
 
-Retirement Calculator is a simple app based on the Svelte framework. Enter your current age, retirement age, current savings amount, annual amount you are saving, and the average rate of inflation over the time period from your current age to your retirement Age.
+Retirement Calculator is a simple app based on the Svelte framework (https://svelte.dev/). Enter your current age, retirement age, current savings amount, annual amount you are saving, and the average rate of inflation over the time period from your current age to your retirement Age. Uses monte carlo simulations (https://en.wikipedia.org/wiki/Monte_Carlo_method) in its calculation
 
 ### Screenshot
 
