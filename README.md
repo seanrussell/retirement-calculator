@@ -4,7 +4,7 @@ Retirement Calculator is a simple app based on the Svelte framework. Enter your 
 
 ### Screenshot
 
-<img alt="Retirement calculator" src="screenshots/calculator.png" />
+<img alt="Retirement calculator" src="screenshots/calculator.png" style="border: 1px solid red"/>
 
 ### Get started
 
